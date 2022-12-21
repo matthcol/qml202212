@@ -1,6 +1,8 @@
 # Formation QML
 
 ## Liens
+### Objets QML (properties, signal, methods, ...)
+- https://doc.qt.io/qt-6/qtqml-syntax-objectattributes.html
 
 ### Performance
 - https://doc.qt.io/qt-6/qtquick-performance.html
