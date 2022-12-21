@@ -8,6 +8,9 @@
 - https://doc.qt.io/qt-6/qml-qtquick-canvas.html
 - https://doc.qt.io/qt-6/qml-qtquick-context2d.html
 
+### Drag and drop
+- https://doc.qt.io/qt-6/qtquick-draganddrop-example.html
+
 
 ### Performance
 - https://doc.qt.io/qt-6/qtquick-performance.html
